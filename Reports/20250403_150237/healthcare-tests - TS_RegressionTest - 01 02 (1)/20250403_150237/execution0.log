@@ -2916,4 +2916,4 @@ Expected result:
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
-</log>
+</log></log>
