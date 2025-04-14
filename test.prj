@@ -4,12 +4,9 @@
    <name>test</name>
    <tag></tag>
    <UUID>c84650ee-cb5e-4a36-b244-5c4df96b316d</UUID>
-   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.1.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/nhi.ly/Downloads/project-katalon/healthyCare_Check/test.prj</projectFileLocation>
+   <projectFileLocation>/Users/loantran/Downloads/healthcare-tests/test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -28,6 +25,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <timeStampInProperties>true</timeStampInProperties>
    <type>GENERIC</type>
 </Project>
