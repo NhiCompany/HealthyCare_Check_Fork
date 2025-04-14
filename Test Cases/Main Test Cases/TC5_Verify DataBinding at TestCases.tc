@@ -9,37 +9,46 @@ Steps:
 
 Expected result:
 'Appointment' section is displayed after successful login</description>
-   <name>TC1_Verify Successful Login</name>
+   <name>TC5_Verify DataBinding at TestCases</name>
    <tag></tag>
    <comment>Story: Login to CURA system
 Given that the user has valid login information
 When he logins to CURA system
 Then he should be able to login successfully</comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e9b87e65-c02e-4631-8c4a-a4b3d9218d69</testCaseGuid>
+   <testCaseGuid>572e5243-3323-4dc8-afea-18f926ecc072</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d7eb5e6c-b964-41ba-9e54-dfa9d2915a96</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/testSuiteBinding</testDataId>
+   </testDataLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
+      <testDataLinkId>d7eb5e6c-b964-41ba-9e54-dfa9d2915a96</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
+      <variableId>55147786-b84f-4a1f-9243-0270a1764c9a</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
+      <testDataLinkId>d7eb5e6c-b964-41ba-9e54-dfa9d2915a96</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>5cdce364-d807-4dc7-8773-16034141554d</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'John Doe'</defaultValue>
       <description></description>
-      <id>14d98e7b-4ac8-4e28-8ce7-394001d188f0</id>
+      <id>55147786-b84f-4a1f-9243-0270a1764c9a</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
       <defaultValue>'ThisIsNotAPassword'</defaultValue>
       <description></description>
-      <id>a97344e7-5f9c-4936-92a2-d85e5463f3c9</id>
+      <id>5cdce364-d807-4dc7-8773-16034141554d</id>
       <masked>false</masked>
       <name>Password</name>
    </variable>

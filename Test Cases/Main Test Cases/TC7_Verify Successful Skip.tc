@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Common test case used to login. 
+   <description>Verify if users can login successful. 
+
 Steps:
 - Click on 'Book Appointment' button to login
 - Input username and password
@@ -8,34 +9,37 @@ Steps:
 
 Expected result:
 'Appointment' section is displayed after successful login</description>
-   <name>Login</name>
+   <name>TC7_Verify Successful Skip</name>
    <tag></tag>
-   <comment></comment>
+   <comment>Story: Login to CURA system
+Given that the user has valid login information
+When he logins to CURA system
+Then he should be able to login successfully</comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>dc59940a-fb78-4da3-82c6-7ff4bffcfd97</testCaseGuid>
+   <testCaseGuid>952666b2-5bdf-4638-978e-c2e1c236e818</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>19fe967b-1564-4705-aff2-848d45b84489</variableId>
+      <variableId>7c5958cd-510a-4460-9e57-37be62533281</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>75fa3d79-7e92-4d55-b359-f7c9493ea288</variableId>
+      <variableId>fa0352c9-7f7c-4e82-bbf7-7b2a7a586cfb</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'John Doe'</defaultValue>
       <description></description>
-      <id>19fe967b-1564-4705-aff2-848d45b84489</id>
+      <id>7c5958cd-510a-4460-9e57-37be62533281</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
       <defaultValue>'ThisIsNotAPassword'</defaultValue>
       <description></description>
-      <id>75fa3d79-7e92-4d55-b359-f7c9493ea288</id>
+      <id>fa0352c9-7f7c-4e82-bbf7-7b2a7a586cfb</id>
       <masked>false</masked>
       <name>Password</name>
    </variable>
