@@ -37,6 +37,12 @@ class SkipByNameListener {
 			testCaseContext.skipThisTestCase()
         }
     }
+	
+	@BeforeTestCase
+	def openBrowser() {
+		WebUI.openBrowser("http://demoaut.katalon.com")
+		WebUI.maximizeWindow()
+	}
 
 	/**
 	 * Executes after every test case ends.
