@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TestSuiteFromTO/_(),.-_ are allowed edit name of TOs test suite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Data Binding/TO Execution module</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
