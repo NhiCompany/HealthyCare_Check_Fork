@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>test case from TO in the folder</name>
+    <testCaseGuid>e41b7c73-ffc2-4ddb-869b-188a1f3e9d39</testCaseGuid>
+</TestCaseEntity>
+
