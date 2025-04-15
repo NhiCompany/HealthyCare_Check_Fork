@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO_Suite_1_testcase Rename</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO_Suite_1_testcase Rename Change Name and check in the KS</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
