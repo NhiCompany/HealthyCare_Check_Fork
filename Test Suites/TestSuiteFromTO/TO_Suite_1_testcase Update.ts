@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TO_Suite_1_testcase Rename Change Name and check in the KS</name>
+   <name>TO_Suite_1_testcase Update</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient>llnhi0404@gmail.com;</mailRecipient>
