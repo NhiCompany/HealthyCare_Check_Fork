@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>false</runEnabled>
-         <testSuiteEntity>Test Suites/Full status/TO Suite will execution in KS Rename</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO Suite will execution in KS Rename</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
