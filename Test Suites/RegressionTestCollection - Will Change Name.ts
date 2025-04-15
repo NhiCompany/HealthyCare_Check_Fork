@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>false</runEnabled>
-         <testSuiteEntity>Test Suites/Full status/TS_RegressionTest - Full status - Will change</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuiteFromTO/TS_RegressionTest - Full status - Will change</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Full status/TO_Suite_1_testcase Update Rename</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO_Suite_1_testcase Update Rename</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
