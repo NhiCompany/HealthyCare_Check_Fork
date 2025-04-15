@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Data Binding/TS_RegressionTest - Configure Execution Information - Will Change</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Full status/TS_RegressionTest - Configure Execution Information - Will Change</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
