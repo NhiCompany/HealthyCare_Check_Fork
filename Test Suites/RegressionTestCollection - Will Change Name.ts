@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO Suite will execution in KS Rename</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuiteFromTO/TS_RegressionTest - Full status - Will change</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TestSuiteFromTO/TS_RegressionTest - Full status - Will change</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuiteFromTO/TS_RegressionTest - Full status</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
