@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>add new</name>
+    <testCaseGuid>bed74d9e-57dd-47f4-8811-4d0306122cd3</testCaseGuid>
+</TestCaseEntity>
+
