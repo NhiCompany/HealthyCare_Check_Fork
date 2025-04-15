@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO_Suite_1_testcase Update Rename</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Full status/TO_Suite_1_testcase Update Rename</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
