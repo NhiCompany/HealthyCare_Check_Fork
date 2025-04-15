@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <name>_(),.-_ are allowed edit name of TOs test suite</name>
    <description></description>
+   <name>_(),.-_ are allowed edit name of TOs test suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
