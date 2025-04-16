@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO Execution module</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO Execution module Edit name of TOs suite</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO Execution module</testSuiteEntity>
+         <testSuiteEntity>Test Suites/TestSuiteFromTO/TO Execution module Edit name of TOs suite</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
