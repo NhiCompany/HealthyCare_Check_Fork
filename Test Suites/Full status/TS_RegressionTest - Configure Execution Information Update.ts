@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>TS_RegressionTest - Configure Execution Information</name>
+   <name>TS_RegressionTest - Configure Execution Information Update</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient>llnhi0404@gmail.com;</mailRecipient>
