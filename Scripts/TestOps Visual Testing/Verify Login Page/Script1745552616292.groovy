@@ -1,6 +1,8 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 import java.awt.Rectangle
+import org.openqa.selenium.Rectangle
+
 
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
