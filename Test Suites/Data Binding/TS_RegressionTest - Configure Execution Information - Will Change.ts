@@ -19,25 +19,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e50e5efd-f4ef-44db-abc4-48941742d8c3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC5_Verify DataBinding at TestCases</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>55147786-b84f-4a1f-9243-0270a1764c9a</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>5cdce364-d807-4dc7-8773-16034141554d</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
       <guid>20251027-506c-43e7-bf43-f4eb0b5929bc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
