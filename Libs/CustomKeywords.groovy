@@ -63,6 +63,7 @@ def static "com.kms.katalon.keyword.applitools.BasicKeywords.checkElement"(
     (new com.kms.katalon.keyword.applitools.BasicKeywords()).checkElement(
         	eyes
          , 	element)
+<<<<<<< Updated upstream
 }
 
 
@@ -72,6 +73,8 @@ def static "com.kms.katalon.keyword.applitools.BasicKeywords.checkTestObject"(
     (new com.kms.katalon.keyword.applitools.BasicKeywords()).checkTestObject(
         	testObject
          , 	testName)
+=======
+>>>>>>> Stashed changes
 }
 
 
@@ -82,6 +85,18 @@ def static "com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow"(
 }
 
 
+<<<<<<< Updated upstream
+=======
+def static "com.kms.katalon.keyword.applitools.BasicKeywords.checkTestObject"(
+    	TestObject testObject	
+     , 	String testName	) {
+    (new com.kms.katalon.keyword.applitools.BasicKeywords()).checkTestObject(
+        	testObject
+         , 	testName)
+}
+
+
+>>>>>>> Stashed changes
 def static "com.kms.katalon.keyword.applitools.EyesKeywords.eyesOpenWithBaseline"(
     	String baselineName	
      , 	String testName	
