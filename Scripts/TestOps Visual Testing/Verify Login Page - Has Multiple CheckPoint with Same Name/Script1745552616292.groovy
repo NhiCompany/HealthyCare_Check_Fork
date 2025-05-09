@@ -18,19 +18,12 @@ WebUI.takeFullPageScreenshotAsCheckpoint('fullCheckpoint')
 
 WebUI.click(findTestObject('TestOpsPage/ContinueWithEmail'))
 
-WebUI.takeAreaScreenshotAsCheckpoint('areaCheckpoint1', captureArea)
-WebUI.takeElementScreenshotAsCheckpoint('elementCheckpoint1', findTestObject('TestOpsPage/email'))
-WebUI.takeElementScreenshotAsCheckpoint('elementCheckpoint1', findTestObject('TestOpsPage/email'))
+WebUI.takeAreaScreenshotAsCheckpoint('areaCheckpoint', captureArea)
+WebUI.takeElementScreenshotAsCheckpoint('elementCheckpoint', findTestObject('TestOpsPage/email'))
+WebUI.takeElementScreenshotAsCheckpoint('elementCheckpoint', findTestObject('TestOpsPage/email'))
 
 WebUI.setEncryptedText(findTestObject('TestOpsPage/email'), '')
 
-WebUI.takeAreaScreenshotAsCheckpoint('areaCheckpoint2', captureArea)
-WebUI.takeElementScreenshotAsCheckpoint('elementCheckpoint2', findTestObject('TestOpsPage/email'))
-WebUI.takeElementScreenshotAsCheckpoint('elementCheckpoint2', findTestObject('TestOpsPage/email'))
-
 WebUI.setEncryptedText(findTestObject('TestOpsPage/pwd'), '')
 
-WebUI.takeAreaScreenshotAsCheckpoint('areaCheckpoint3', captureArea)
-WebUI.takeElementScreenshotAsCheckpoint('elementCheckpoint3', findTestObject('TestOpsPage/email'))
-WebUI.takeElementScreenshotAsCheckpoint('elementCheckpoint3', findTestObject('TestOpsPage/email'))
 
