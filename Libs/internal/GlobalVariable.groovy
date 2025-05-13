@@ -24,16 +24,21 @@ public class GlobalVariable {
      */
     public static Object G_ShortTimeOut
      
+    /**
+     * <p></p>
+     */
+    public static Object Url_qa
+     
 
     static {
         try {
             def selectedVariables = TestCaseMain.getGlobalVariables("default")
 			selectedVariables += TestCaseMain.getGlobalVariables(RunConfiguration.getExecutionProfile())
-            selectedVariables += TestCaseMain.getParsedValues(RunConfiguration.getOverridingParameters(), selectedVariables)
     
             G_Timeout = selectedVariables['G_Timeout']
             G_SiteURL = selectedVariables['G_SiteURL']
             G_ShortTimeOut = selectedVariables['G_ShortTimeOut']
+            Url_qa = selectedVariables['Url_qa']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)

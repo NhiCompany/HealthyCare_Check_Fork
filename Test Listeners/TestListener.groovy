@@ -11,4 +11,5 @@ class TestListener {
 	def sampleBeforeTestSuite(TestSuiteContext testSuiteContext) {
 		KatalonHelper.updateInfo()
 	}
+	
 }
